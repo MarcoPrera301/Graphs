@@ -1,0 +1,9 @@
+Guatemala Mixco 15
+Guatemala Chimaltenango 54
+Guatemala Antigua 45
+Mixco Chimaltenango 42
+Antigua Escuintla 35
+Antigua Chimaltenango 20
+Chimaltenango Quetzaltenango 120
+Quetzaltenango Huehuetenango 88
+Huehuetenango SanMarcos 75
